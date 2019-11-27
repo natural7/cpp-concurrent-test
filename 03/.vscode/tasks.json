@@ -1,0 +1,17 @@
+{
+"tasks": [
+   {
+      "type": "shell",
+      "label": "gcc.exe build active file",
+      "command": "g++",
+      "args":[
+         "-g","-o","main.exe", "main.cpp","./people/people.cpp","./student/student.cpp","./interface/interface.h","./implement/implement.cpp",";","./main.exe"
+     ],
+      "group": {
+         "kind": "build",
+         "isDefault": true
+      }
+   }
+],
+  "version": "2.0.0"
+}

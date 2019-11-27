@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}\\sub1",
+                "..\\sub1",
+                "D:\\soft_install\\mingw64\\bin",
+                "D:\\soft_install\\mingw64\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++",
+                "D:\\soft_install\\mingw64\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\i686-w64-mingw32",
+                "D:\\soft_install\\mingw64\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\tr1",
+                "D:\\soft_install\\mingw64\\lib\\gcc\\i686-w64-mingw32\\lib",
+                "D:\\soft_install\\mingw64\\include",
+                "D:\\soft_install\\mingw64\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include",
+                "D:\\soft_install\\mingw64\\i686-w64-mingw32\\lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath":  "D:\\soft_install\\mingw64\\bin\\g++.exe",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

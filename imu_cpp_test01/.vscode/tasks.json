@@ -1,0 +1,17 @@
+{
+"tasks": [
+   {
+      "type": "shell",
+      "label": "gcc.exe build active file",
+      "command": "gcc",
+      "args":[
+         "-g","-o","main.exe", "./*.c",";","./main.exe"
+     ],
+      "group": {
+         "kind": "build",
+         "isDefault": true
+      }
+   }
+],
+  "version": "2.0.0"
+}

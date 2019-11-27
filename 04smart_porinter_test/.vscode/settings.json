@@ -1,0 +1,11 @@
+{
+   "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/",
+   "code-runner.executorMap": {     
+          "cpp": "g++ $fileName  -o $fileNameWithoutExt.exe ; ./$fileNameWithoutExt.exe"
+      },
+      "files.associations": {
+         "iostream": "cpp",
+         "ostream": "cpp",
+         "chrono": "cpp"
+      },
+}

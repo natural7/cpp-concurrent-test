@@ -1,0 +1,15 @@
+{
+   "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/",
+   "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "gradient.h": "c",
+      "*.tcc": "c",
+      "stdlib.h": "c",
+      "atomic": "cpp",
+      "string": "cpp",
+      "string_view": "cpp",
+      "thread": "cpp",
+      "mutex": "cpp"
+   }
+}

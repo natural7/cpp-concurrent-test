@@ -1,0 +1,7 @@
+{
+   "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/",
+   "files.associations": {
+      "iostream": "cpp",
+      "test.h": "c"
+   }
+}
